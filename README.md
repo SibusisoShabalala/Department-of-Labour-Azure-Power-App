@@ -49,4 +49,4 @@ If you have decided to purchase Power Apps, see here for detailed information: P
 Power Apps US Government plans
 Power Apps US Government consists of several plans for US government organizations to address the unique and evolving requirements of the United States public sector. The Power Apps GCC environment provides compliance with federal requirements for cloud services, including FedRAMP High, DoD DISA IL2, and requirements for criminal justice systems (CJI data types). More information: Power Apps US Government
 
-For more information please visit:https://docs.microsoft.com/en-us/powerapps/powerapps-overview
+For more information please visit:https://docs.microsoft.com/en-us/powerapps/powerapps-overview.
